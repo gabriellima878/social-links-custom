@@ -60,6 +60,9 @@ ul {
     width: 88px;
     height: 88px;
     border-radius: 100%;
+    object-fit: cover;
+    object-position: center top;
+    overflow: hidden;
 }
 
 .info {
